@@ -33,6 +33,9 @@ Welcome to **SYNERGY** — a cutting-edge, data-driven smart home energy optimiz
 | **API Layer**        | FastAPI (RESTful)       | Connects backend, ML models, and frontend for seamless data flow.  |
 | **Frontend**         | Next.js                 | Real-time visualizations and user interactions.                    |
 
+<img width="985" height="980" alt="image" src="https://github.com/user-attachments/assets/3769697d-4318-40b5-8923-07d581a45604" />
+
+
 ## 🌐 Deployment Overview
 
 - **Backend:** FastAPI, hosted on Render

@@ -28,14 +28,14 @@ export default function AboutUsPage() {
           {/* Developer 1 */}
           <div className="bg-white rounded-2xl shadow-lg p-6 text-center hover:shadow-2xl transition duration-300 border border-blue-100">
             <Image
-              src="/ananya.jpg"
-              alt="Ananya Mangal"
+              src="/Aarush.jpg"
+              alt="Aarush Rajoura"
               width={150}
               height={150}
               className="rounded-full mx-auto object-cover shadow-md border-4 border-blue-300"
             />
-            <h3 className="mt-6 text-2xl font-semibold text-gray-800">Ananya Mangal</h3>
-            <p className="text-gray-500">Full Stack Developer & AI/ML Engineer</p>
+            <h3 className="mt-6 text-2xl font-semibold text-gray-800">Aarush Rajoura</h3>
+            <p className="text-gray-500">Backend Developer & AI/ML Engineer</p>
           </div>
         </div>
       </section>
